@@ -2,10 +2,7 @@
 layout: post
 title:  "Evidence-based policy making"
 date:   2017-10-28 18:34:04 +0200
-categories: jekyll update
 ---
-
-Authors: **Tina La, Amaëlle Grosjean **
 
 This morning, Giovanna Di Marzo Serugendo (professor at the University of Geneva and the head of the Institute of Services 
 Science.Director, Inst. Services Science & CUI, UNIGE) gave us a course on “evidence-based policy making”, which refers, according to the 
